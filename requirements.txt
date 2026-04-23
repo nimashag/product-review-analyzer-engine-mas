@@ -1,0 +1,9 @@
+# Local-only: CrewAI + Ollama (no cloud LLM API keys).
+# Python 3.10+ recommended.
+
+crewai
+langchain-community
+pytest
+pydantic
+hypothesis>=6.0
+streamlit>=1.28.0
