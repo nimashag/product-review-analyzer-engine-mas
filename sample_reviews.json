@@ -1,0 +1,37 @@
+[
+  {
+    "id": "r1",
+    "text": "Excellent build quality and fast delivery. Would buy again.",
+    "rating": 5,
+    "date": "2026-01-10",
+    "verified": true
+  },
+  {
+    "id": "r2",
+    "text": "Good value but packaging arrived slightly damaged.",
+    "rating": 4,
+    "date": "2026-01-11",
+    "verified": true
+  },
+  {
+    "id": "r3",
+    "text": "Stopped working after two weeks. Support was slow to respond.",
+    "rating": 2,
+    "date": "2026-01-12",
+    "verified": false
+  },
+  {
+    "id": "r4",
+    "text": "Average product; nothing special for the price point.",
+    "rating": 3,
+    "date": "2026-01-13",
+    "verified": true
+  },
+  {
+    "id": "r5",
+    "text": "Solid daily driver; minor cosmetic blemish on arrival.",
+    "rating": 4,
+    "date": "2026-01-14",
+    "verified": true
+  }
+]
